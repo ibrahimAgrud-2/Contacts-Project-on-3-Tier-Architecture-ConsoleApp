@@ -1,0 +1,13 @@
+C:\Users\ibrah\source\repos\ContactsConsoleAPP - PresentationLayer\bin\Debug\ContactsConsoleAPP - PresentationLayer.exe.config
+C:\Users\ibrah\source\repos\ContactsConsoleAPP - PresentationLayer\bin\Debug\ContactsConsoleAPP - PresentationLayer.exe
+C:\Users\ibrah\source\repos\ContactsConsoleAPP - PresentationLayer\bin\Debug\ContactsConsoleAPP - PresentationLayer.pdb
+C:\Users\ibrah\source\repos\ContactsConsoleAPP - PresentationLayer\bin\Debug\ContactsBusinessLayer.dll
+C:\Users\ibrah\source\repos\ContactsConsoleAPP - PresentationLayer\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\ibrah\source\repos\ContactsConsoleAPP - PresentationLayer\bin\Debug\ContactsBusinessLayer.pdb
+C:\Users\ibrah\source\repos\ContactsConsoleAPP - PresentationLayer\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\ibrah\source\repos\ContactsConsoleAPP - PresentationLayer\obj\Debug\ContactsConsoleAPP - PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\ibrah\source\repos\ContactsConsoleAPP - PresentationLayer\obj\Debug\ContactsConsoleAPP - PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\source\repos\ContactsConsoleAPP - PresentationLayer\obj\Debug\Contacts.685A24D8.Up2Date
+C:\Users\ibrah\source\repos\ContactsConsoleAPP - PresentationLayer\obj\Debug\ContactsConsoleAPP - PresentationLayer.exe
+C:\Users\ibrah\source\repos\ContactsConsoleAPP - PresentationLayer\obj\Debug\ContactsConsoleAPP - PresentationLayer.pdb
+C:\Users\ibrah\source\repos\ContactsConsoleAPP - PresentationLayer\obj\Debug\ContactsConsoleAPP - PresentationLayer.exe.config
