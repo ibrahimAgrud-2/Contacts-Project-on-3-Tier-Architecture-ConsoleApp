@@ -1,4 +1,4 @@
-Contacts Project on 3 Tier Architecture
+## Contacts Project on 3 Tier Architecture
 
 This is a small C# console application created to practice and understand the 3-Tier Architecture concept.
 
