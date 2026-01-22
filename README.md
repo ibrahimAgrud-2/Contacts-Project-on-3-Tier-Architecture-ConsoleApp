@@ -10,4 +10,4 @@ The project is structured into three main layers:
 
 - Data Access Layer
 
-A simple contacts management scenario is used to demonstrate how responsibilities are separated across layers.
+A contacts management scenario is used to demonstrate how responsibilities are separated across layers.
