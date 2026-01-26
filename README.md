@@ -16,4 +16,4 @@ Since this project was created as a learning-focused implementation of 3-Tier Ar
 
 The diagram below illustrates the overall flow and interaction between the layers in the application.
 
-![](C:\Users\ibrah\Masaüstü\files\ProjectsToGit\CSharpProjects\08_Contacts-Project-on-3-Tier-Architecture\Diagram.png)
+![](Diagram.png)
