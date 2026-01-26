@@ -1,0 +1,3 @@
+The Data Access Layer is responsible solely for retrieving contact data from the database and making it available to the application in a usable form. This layer focuses only on data access operations and does not contain any business or presentation-related logic.
+
+In this project, all database interaction code is implemented in this layer. Its responsibility is limited to connecting to the database, executing queries, and returning the results to the Business Layer. It does not depend on any other layer and does not make assumptions about how the data will be used or presented.

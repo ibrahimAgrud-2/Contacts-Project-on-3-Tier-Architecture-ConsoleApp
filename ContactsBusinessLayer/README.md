@@ -1,1 +1,7 @@
-Business layer
+The Business Layer contains the core source code of the application. This layer defines how the application behaves and includes the components that actually run the main logic of the system. By placing the core functionality here, the fundamental behavior of the application is centralized and kept independent from the user interface.
+
+Thanks to this structure, the main business operations are implemented only once. **If the application needs to be extended to another platform, such as adding a web interface to an existing desktop or mobile application, the Business Layer does not need to be rewritten. Only the Presentation Layer would need to be adapted to the new platform, while the core logic remains unchanged.**  For example, in a banking application, having a properly designed Business Layer allows the same business rules to be reused across mobile and web versions without duplicating the entire codebase.
+
+In this project, all code responsible for performing the actual work of the application resides in this layer. Classes such as clsContact and operations like Find() belong here because they are completely independent of the user interface. The responsibility of such methods is purely to perform business-related tasks, such as finding and managing contact data, regardless of how or where the application is presented.
+
+No user interaction or message handling is implemented in this layer.
