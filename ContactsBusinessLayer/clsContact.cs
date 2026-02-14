@@ -79,7 +79,7 @@ namespace ContactsBusinessLayer
             int countryID=0;
 
 
-            if (clsContactDataAccess.getContactInfoByID(ref ID, ref firstName, ref lastName, ref email, ref phone, ref address,  dateOfBirth, ref imagePath, ref countryID))
+            if (clsContactDataAccess.getContactInfoByID(ref ID, ref firstName, ref lastName, ref email, ref phone, ref address,ref  dateOfBirth, ref imagePath, ref countryID))
             {
                 return new clsContact(ID,firstName,lastName,email,phone,address,dateOfBirth,imagePath,countryID);
 

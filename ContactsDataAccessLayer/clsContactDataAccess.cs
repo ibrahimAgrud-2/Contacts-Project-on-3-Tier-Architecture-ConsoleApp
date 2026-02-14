@@ -11,7 +11,7 @@ namespace ContactsDataAccessLayer
     {
         
 
-      public   static bool getContactInfoByID(ref int ID, ref string firstName, ref string lastName, ref string email, ref string phone, ref string address, DateTime dateOfBirth, ref string imagePath, ref int countryID)
+      public   static bool getContactInfoByID(ref int ID, ref string firstName, ref string lastName, ref string email, ref string phone, ref string address, ref DateTime dateOfBirth, ref string imagePath, ref int countryID)
         {
             SqlConnection connection = new SqlConnection(clsContactDataAccessSettings.connectionString);
 
@@ -37,6 +37,7 @@ namespace ContactsDataAccessLayer
                     phone = (string)read["phone"];
                     address = (string)read["address"];
                     countryID = (int)read["CountryID"];
+                    dateOfBirth = Convert.ToDateTime(read["DateOfBirth"]);
 
                     //[TR]
                     // NUllable kolon değerlerini DB'den alırken ve DB'e eklerken kontrol etmelisin. 
