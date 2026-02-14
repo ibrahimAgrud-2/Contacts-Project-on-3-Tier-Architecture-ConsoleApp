@@ -61,7 +61,7 @@ namespace ContactsBusinessLayer
             this.email = email;
             this.phone = phone;
             this.address = address;
-            this.dateOfBirth = this.dateOfBirth;
+            this.dateOfBirth = dateOfBirth;
             this.imagePath = imagePath; 
             this.countryID = countryID;
 

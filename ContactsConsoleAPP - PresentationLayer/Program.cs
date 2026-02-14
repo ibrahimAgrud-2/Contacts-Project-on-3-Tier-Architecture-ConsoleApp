@@ -307,9 +307,10 @@ namespace ContactsConsoleAPP___PresentationLayer
         static void Main(string[] args)
         {
 
+            clsContact contact = clsContact.find(4);
+            Console.WriteLine(contact.dateOfBirth);
 
-            listCountries();
-  
+
         }
     }
 }
